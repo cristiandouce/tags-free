@@ -1,0 +1,13 @@
+{
+  "name": "tags-free",
+  "repo": "cristiandouce/html-free",
+  "description": "Simply removes html tags from raw html string.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
